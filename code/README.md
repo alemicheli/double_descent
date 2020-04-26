@@ -4,6 +4,6 @@ This folder contains the code for the implementations of the ML algorithms used 
 Specifically,
 
 . **Connected_Net.ipynb** contains the code to train a single layer fully connected network over MNIST
-. **Random_FF.ipynb** contains the ocde to train Random Fourier Features over MNIST
 
+. **utils.py** contains some functions definitions used for the custom weight initialization of the neural network.
 
